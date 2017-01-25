@@ -1,5 +1,8 @@
+var people = [];
 function initSearch(people){
-	;
+    var x = document.getElementById("nameSearch").value;
+    alert ("You typed: " + x);
+
 }
 function initSearchByName(){
 	;
